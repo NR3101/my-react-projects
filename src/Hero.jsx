@@ -8,7 +8,8 @@ const Hero = () => {
         <div className="hero-title">
           <h1>My React Projects</h1>
           <p>
-            Welcome to my React Portfolio, a thoughtfully curated collection of
+            Hello there I am Neeraj Rai, an aspiring front-end developer and
+            welcome to my React Portfolio, a thoughtfully curated collection of
             web projects I've had the privilege to work on. Within these
             snippets, you'll discover a glimpse of my journey in web
             development.
